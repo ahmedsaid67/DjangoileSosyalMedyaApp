@@ -1,4 +1,4 @@
-from tkinter import Widget
+
 from attr import attr
 from django import forms
 from django.contrib.auth.models import User
